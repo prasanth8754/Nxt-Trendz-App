@@ -1,0 +1,15 @@
+.products-img {
+  width: 200px;
+}
+.products-cont {
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (min-width: 992px) {
+  .products-img {
+    width: 18%;
+  }
+}
